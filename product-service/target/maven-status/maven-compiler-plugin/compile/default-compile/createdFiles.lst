@@ -1,0 +1,10 @@
+com\howdyankit\productservice\model\Product.class
+com\howdyankit\productservice\repository\ProductRepository.class
+com\howdyankit\productservice\ProductServiceApplication.class
+com\howdyankit\productservice\dto\ProductResponse.class
+com\howdyankit\productservice\service\ProductService.class
+com\howdyankit\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\howdyankit\productservice\dto\ProductRequest.class
+com\howdyankit\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\howdyankit\productservice\model\Product$ProductBuilder.class
+com\howdyankit\productservice\controller\ProductController.class

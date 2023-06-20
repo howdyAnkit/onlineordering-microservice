@@ -1,0 +1,5 @@
+com\howdyankit\inventoryservice\model\Inventory.class
+com\howdyankit\inventoryservice\service\InventoryService.class
+com\howdyankit\inventoryservice\repository\InventoryRepository.class
+com\howdyankit\inventoryservice\controller\InventoryController.class
+com\howdyankit\inventoryservice\InventoryServiceApplication.class
